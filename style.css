@@ -1,6 +1,15 @@
-.btn btn-primary {
-    color: green;
+.main-container {
+    text-align: center;
 }
-.main-container{
-    align-items: center;
+
+.btn-moins {
+    background-color: gray;
+}
+
+.btn-plus {
+    background-color: gray;
+}
+
+.btn-reset {
+    background-color: gray;
 }
