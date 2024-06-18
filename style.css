@@ -2,14 +2,14 @@
     text-align: center;
 }
 
-.btn-moins {
-    background-color: gray;
+.main {
+    text-align: center;
 }
 
-.btn-plus {
-    background-color: gray;
-}
-
-.btn-reset {
-    background-color: gray;
+.btn {
+    background-color: yellow;
+    border: none;
+    border-radius: 30%;
+    width: 200px;
+    height: 200px;
 }
